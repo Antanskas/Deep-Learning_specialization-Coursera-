@@ -1,5 +1,6 @@
-# Deep Learning Specialization on Coursera
-### [Master Deep Learning, and Break into AI](https://www.coursera.org/specializations/deep-learning) ![]()
+# Deep Learning Specialization on Coursera  
+![deeplearning_ai_logo](https://github.com/Antanskas/Deep-Learning_specialization-Coursera-/blob/master/repository_images/deeplearningai.png)
+### [Master Deep Learning, and Break into AI](https://www.coursera.org/specializations/deep-learning) ![coursera_logo](https://github.com/Antanskas/Deep-Learning_specialization-Coursera-/blob/master/repository_images/coursera.png)
 
 This is my personal projects for the course. Highly recommend anyone wanting to break into AI. 
 
